@@ -1,6 +1,6 @@
 # Change these first
 owner: villekulla-nma
-repo: booking
+repo: monitor-booking
 
 sites:
   - name: Booking
