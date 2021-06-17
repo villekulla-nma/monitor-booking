@@ -1,5 +1,5 @@
 # Change these first
-owner: villekulla-nma/
+owner: villekulla-nma
 repo: booking
 
 sites:
@@ -7,7 +7,7 @@ sites:
     url: $SITE_URL
 
 assignees:
-  - herscehl666
+  - herschel666
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
