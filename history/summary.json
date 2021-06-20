@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/booking.villekulla-nma.de",
     "slug": "booking",
     "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "97.28%",
+    "uptimeDay": "94.83%",
+    "uptimeWeek": "97.28%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "97.28%",
     "time": 2011,
-    "timeDay": 1493,
+    "timeDay": 1123,
     "timeWeek": 2011,
     "timeMonth": 2011,
     "timeYear": 2011,
     "dailyMinutesDown": {
-      "2021-06-19": 0,
+      "2021-06-20": 60,
+      "2021-06-19": 15,
       "2021-06-18": 14
     }
   }
