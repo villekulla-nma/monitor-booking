@@ -1,7 +1,7 @@
 url: https://booking.villekulla-nma.de/api/_health
-status: up
-code: 200
-responseTime: 1671
-lastUpdated: 2021-07-15T23:04:01.789Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2021-07-15T23:57:48.106Z
 startTime: Thu Jun 17 2021 18:52:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
