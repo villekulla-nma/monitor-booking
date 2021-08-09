@@ -6,6 +6,8 @@ sites:
   - name: Booking
     url: $SITE_URL
 
+user-agent: homunkulus666
+
 assignees:
   - herschel666
 
