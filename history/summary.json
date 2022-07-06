@@ -4,19 +4,20 @@
     "url": "$SITE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "booking",
-    "status": "down",
-    "uptime": "98.12%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "98.06%",
+    "status": "up",
+    "uptime": "98.10%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "98.04%",
     "time": 988,
-    "timeDay": 807,
-    "timeWeek": 912,
-    "timeMonth": 803,
+    "timeDay": 935,
+    "timeWeek": 929,
+    "timeMonth": 811,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2022-07-05": 0,
+      "2022-07-06": 64,
+      "2022-07-05": 5,
       "2022-06-30": 141,
       "2022-06-23": 15,
       "2022-06-22": 18,
@@ -93,8 +94,7 @@
       "2021-07-15": 52,
       "2021-07-14": 50,
       "2021-07-13": 41,
-      "2021-07-11": 12,
-      "2021-07-06": 12
+      "2021-07-11": 12
     }
   }
 ]
