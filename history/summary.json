@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "booking",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.40%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "98.05%",
     "time": 986,
-    "timeDay": 882,
-    "timeWeek": 905,
-    "timeMonth": 821,
-    "timeYear": 949,
+    "timeDay": 937,
+    "timeWeek": 871,
+    "timeMonth": 828,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2022-07-06": 64,
       "2022-07-05": 5,
@@ -93,8 +93,7 @@
       "2021-07-16": 52,
       "2021-07-15": 52,
       "2021-07-14": 50,
-      "2021-07-13": 41,
-      "2021-07-11": 12
+      "2021-07-13": 41
     }
   }
 ]
