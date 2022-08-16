@@ -6,8 +6,8 @@
     "slug": "booking",
     "status": "up",
     "uptime": "98.28%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.53%",
     "time": 975,
@@ -16,7 +16,6 @@
     "timeMonth": 833,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2022-08-15": 2,
       "2022-08-10": 17,
       "2022-07-06": 64,
       "2022-07-05": 5,
