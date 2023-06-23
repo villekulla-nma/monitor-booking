@@ -4,19 +4,20 @@
     "url": "$SITE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booking",
-    "status": "down",
-    "uptime": "98.75%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "98.74%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "97.97%",
-    "time": 858,
-    "timeDay": 1159,
-    "timeWeek": 893,
-    "timeMonth": 872,
+    "time": 857,
+    "timeDay": 918,
+    "timeWeek": 869,
+    "timeMonth": 868,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2023-06-22": 0,
+      "2023-06-23": 42,
+      "2023-06-22": 7,
       "2023-04-27": 50,
       "2023-04-26": 5,
       "2023-04-23": 80,
@@ -69,8 +70,7 @@
       "2022-08-10": 17,
       "2022-07-06": 64,
       "2022-07-05": 5,
-      "2022-06-30": 141,
-      "2022-06-23": 15
+      "2022-06-30": 141
     }
   }
 ]
