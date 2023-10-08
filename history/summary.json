@@ -6,14 +6,14 @@
     "slug": "booking",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "96.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.89%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "98.23%",
     "time": 853,
-    "timeDay": 902,
-    "timeWeek": 842,
-    "timeMonth": 826,
+    "timeDay": 1103,
+    "timeWeek": 872,
+    "timeMonth": 837,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2023-10-07": 39,
@@ -62,8 +62,7 @@
       "2022-11-16": 113,
       "2022-11-08": 118,
       "2022-10-18": 24,
-      "2022-10-09": 161,
-      "2022-10-08": 31
+      "2022-10-09": 161
     }
   }
 ]
