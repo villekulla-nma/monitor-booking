@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booking",
     "status": "up",
-    "uptime": "98.75%",
+    "uptime": "98.76%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "44.10%",
+    "uptimeWeek": "45.93%",
     "uptimeMonth": "87.14%",
     "uptimeYear": "98.43%",
     "time": 827,
-    "timeDay": 911,
-    "timeWeek": 835,
-    "timeMonth": 764,
-    "timeYear": 821,
+    "timeDay": 979,
+    "timeWeek": 874,
+    "timeMonth": 773,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2024-09-29": 1227,
       "2024-09-28": 1440,
@@ -53,8 +53,7 @@
       "2023-10-09": 34,
       "2023-10-08": 6,
       "2023-10-07": 39,
-      "2023-10-06": 5,
-      "2023-10-04": 66
+      "2023-10-06": 5
     }
   }
 ]
