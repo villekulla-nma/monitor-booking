@@ -4,7 +4,7 @@
     "url": "$SITE_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "booking",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 838,
     "timeDay": 1068,
     "timeWeek": 821,
-    "timeMonth": 841,
+    "timeMonth": 845,
     "timeYear": 842,
     "dailyMinutesDown": {
       "2025-12-16": 59,
